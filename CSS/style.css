@@ -80,6 +80,7 @@ h4 {
 
 .navbar {
   display: flex;
+  gap: 50px;
   justify-content: space-between;
   align-items: center;
   padding: 7px 10px;
